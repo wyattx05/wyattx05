@@ -1,4 +1,4 @@
-##Wyatt Anderson
+# Wyatt Anderson
 
 Majoring in Information Systems and minoring in practical artifical inteligence
 
