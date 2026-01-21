@@ -4,7 +4,7 @@
 
 ### I enjoy creating things and helping people
 
-## Check me out ⬇️
+## Check me out & lets connect ⬇️
 
 ### 🌐 [Portfolio Website](https://wyattx05.github.io/Portfolio/)
 ### 💼 [LinkedIn](https://www.linkedin.com/in/wyatt-anderson609)
