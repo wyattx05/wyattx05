@@ -1,11 +1,11 @@
 # 👋 Hey, I’m Wyatt  
 
-### I’m a sophomore at **Virginia Commonwealth University**, studying **Information Systems** with a minor in **Practical Artificial Intelligence** at **VCU School of Business**.  
+### Information Systems student at Virginia Commonwealth University, minor in Practical Artificial Intelligence.
 
-### I enjoy creating things and helping people
-
-## Lets Connect ⬇️
+## Connect ⬇️
 
 ### 🌐 [Website](https://wyattx05.github.io/Portfolio/)
 ### 💼 [LinkedIn](https://www.linkedin.com/in/wyatt-anderson609)
 ### ✉️ whanderson0249@gmail.com
+
+### Currently learning IT Infrastructure, AI Automation, Cloud Technologies, and Data Visualization Tools
