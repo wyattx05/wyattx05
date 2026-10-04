@@ -1,6 +1,8 @@
 # Hey I'm Wyatt
 ### Junior Information Systems Student minoring in Practical Artificial Intelligence @ Virginia Commonwealth University
-### Passionate about bring people closer to the technology they use everyday.
+### Passionate about bringing people closer to the technology they use everyday.
+
+### Currently learning Swift & Python
 
 
 ### 🌐 [Website](https://wyattx05.github.io/Portfolio/)
